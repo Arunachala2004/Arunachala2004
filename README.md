@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunachala1234&label=Profile%20views&color=0e75b6&style=flat" alt="arunachala1234" /> </p>
 
-- 🌱 I’m currently learning **Android Studio**
+- 🌱 I’m currently learning **Machine Learing**
 
 - 💬 Ask me about **C, C++, Code blocks, Python**
 
