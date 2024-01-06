@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Android Studio**
 
-- 💬 Ask me about **C, C++, Code blocks**
+- 💬 Ask me about **C, C++, Code blocks, Python**
 
 - 📫 How to reach me **arunachala01072004@gmail.com**
 
