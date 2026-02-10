@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=580&height=70&lines=Hey+There+,+I'm+Arunachala+Arun+;A+Machine+Learning+Guy">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=580&height=70&lines=Hey+There+,+I'm+Arunachala+Muniraj+;A+Machine+Learning+Intern">
 </p>
 <h3 align="center">Eager to learn! Anger to injustice!</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
