@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Computer Vision**
 
-- 🌱 I’m currently learning **Github, C++, Python, Android, Artificial intelligence and Machine Learning.**
+- 🌱 I’m currently learning **MLOps, Deep Learning.**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Machine Learning, Github,Git, Jenkins, Kubernetes**
 
 - 📫 How to reach me **arunachala01072004@gmail.com**
 
